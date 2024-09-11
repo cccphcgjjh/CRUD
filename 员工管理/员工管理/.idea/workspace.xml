@@ -14,7 +14,7 @@
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="localRepository" value="D:\maven\apache-maven-3.8.8-bin\mvn-repository" />
-        <option name="mavenHome" value="D:/maven/apache-maven-3.8.8-bin/apache-maven-3.8.8" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../maven/apache-maven-3.8.8-bin/apache-maven-3.8.8" />
         <option name="userSettingsFile" value="D:\maven\apache-maven-3.8.8-bin\apache-maven-3.8.8\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -25,6 +25,9 @@
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="ProjectErrors" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
   <component name="ProjectId" id="2lsTOLSIALUxCPjY880by2YQpVO" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -36,6 +39,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/Users/734/Downloads/Staff-Management-System-master",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "库",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
@@ -57,6 +61,14 @@
       </method>
     </configuration>
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.17011.127" />
+        <option value="bundled-python-sdk-48aec45f0201-7e9c3bbb6e34-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.17011.127" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
@@ -66,6 +78,7 @@
       <option name="presentableId" value="Default" />
       <updated>1725967750509</updated>
       <workItem from="1725967751926" duration="908000" />
+      <workItem from="1725970645452" duration="2000" />
     </task>
     <servers />
   </component>
